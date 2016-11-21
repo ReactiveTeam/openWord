@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Reactive\openWord\bin\Debug\openWord.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Reactive\openWord\bin\Debug\openWord.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Reactive\openWord\bin\Debug\PluginCore.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Reactive\openWord\bin\Debug\PluginCore.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Reactive\openWord\obj\Debug\openWord.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Reactive\openWord\obj\Debug\openWord.pdb
