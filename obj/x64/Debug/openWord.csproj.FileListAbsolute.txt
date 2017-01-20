@@ -1,0 +1,7 @@
+C:\Users\User\documents\visual studio 2015\Projects\Reactive\openWord\bin\x64\Debug\openWord.dll
+C:\Users\User\documents\visual studio 2015\Projects\Reactive\openWord\bin\x64\Debug\openWord.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Reactive\openWord\bin\x64\Debug\PluginCore.dll
+C:\Users\User\documents\visual studio 2015\Projects\Reactive\openWord\bin\x64\Debug\PluginCore.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Reactive\openWord\obj\x64\Debug\openWord.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Reactive\openWord\obj\x64\Debug\openWord.dll
+C:\Users\User\documents\visual studio 2015\Projects\Reactive\openWord\obj\x64\Debug\openWord.pdb
